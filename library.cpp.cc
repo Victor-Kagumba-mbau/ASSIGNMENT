@@ -1,8 +1,8 @@
 /*
 //program to calculate library the fine for overdue library books
-Author: 
-Reg no: 
-date: 
+Author: Victor Kagumba
+Reg no: CT101/G/23670/24
+date: 01/10/2024
 */
 #include <stdio.h>
 #include <math.h>

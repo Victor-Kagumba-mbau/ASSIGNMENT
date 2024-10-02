@@ -1,8 +1,8 @@
 /*
 //program to test if a customer qualifies for a loan
 Author: Victor Kagumba
-Reg no:
-Date:
+Reg no:CT101/G/23670/24
+Date:01/10/2024
 */
 #include <stdio.h>
 int main(){

@@ -1,8 +1,8 @@
 /*
 //Program to calculate compound interest
-Author:
-Reg no:
-Date:
+Author:Victor Kagumba
+Reg no:CT101/G/23670/24
+Date:01/10/2024
 */
 #include<stdio.h>
 #include <math.h>
